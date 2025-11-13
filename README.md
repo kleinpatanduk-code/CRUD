@@ -16,7 +16,7 @@ API ini digunakan untuk mengelola data pengguna (user) — seperti menambah, men
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+##  Teknologi yang Digunakan
 -  PHP Native  
 -  MySQL Database  
 - Laragon (Local Server)  
@@ -44,4 +44,5 @@ CREATE TABLE users (
   email VARCHAR(100) NOT NULL,
   password VARCHAR(255) NOT NULL
 );
+
 
